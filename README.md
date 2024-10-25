@@ -1,5 +1,5 @@
 # ChapVidMR: Chapter-Based Video Moment Retrieval using Natural Language Queries
-Code and Data for our ICVGIP 2024 Paper
+Official Code and Data for our ICVGIP 2024 Paper
 
 This codebase consists of the following three directories:
 
@@ -28,7 +28,7 @@ Summary statistics for the ChapVidMR dataset.
 
 ---
 
-## Dataset Sample
+## Dataset Samples
 
 
 ![Dataset Samples](figures/dataset_sample.png)
