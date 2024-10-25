@@ -41,4 +41,22 @@ Description of methods used for the task.
 ![Methods](figures/methods.png)
 
 ---
+## Citation
+
+If you use this code or dataset in your research, please cite our paper:
+
+```bibtex
+@inproceedings{chapvidmr,
+  author       = {Uday Agarwal and
+                  Yogesh Kumar and
+                  Abu Shahid and
+                  Prajwal Gatti and
+                  Manish Gupta and
+                  Anand Mishra},
+  title        = {Chapter-Based Video Moment Retrieval using Natural Language Queries},
+  booktitle    = {ICVGIP},
+  year         = {2024},
+}
+
+
 
