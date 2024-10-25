@@ -31,7 +31,7 @@ Summary statistics for the ChapVidMR dataset.
 ## Dataset Sample
 
 
-![Dataset Sample](figures/dataset_sample.png)
+![Dataset Samples](figures/dataset_sample.png)
 
 ---
 
@@ -57,6 +57,9 @@ If you use this code or dataset in your research, please cite our paper:
   booktitle    = {ICVGIP},
   year         = {2024},
 }
+```
+## Contact
 
+Please feel free to open an issue or email us at [agarwaluday@iitj.ac.in](mailto:agarwaluday@iitj.ac.in) / [kumar.204@iitj.ac.in](mailto:kumar.204@iitj.ac.in)
 
 
