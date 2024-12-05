@@ -1,4 +1,4 @@
-## ChapVidMR: Chapter-Based Video Moment Retrieval using Natural Language Queries | [Paper](https://github.com/vl2g/ChapVidMR/blob/main/figures/ChapVidMR.pdf)
+## ChapVidMR: Chapter-Based Video Moment Retrieval using Natural Language Queries | [Paper](https://drive.google.com/file/d/143odnhV4CljwX8Y8hZAPThkLbEVJtEdv/view?usp=sharing)
 
 Official Code and Data for our ICVGIP 2024 Paper
 
